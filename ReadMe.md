@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second-year B.Tech student in CCE at LNMIIT, specializing in Computer Science and Communication Tech. Proficient in HTML, CSS, JavaScript, ReactJS, Node.js for web development. I Aim to innovate in web solutions using technical and academic expertise.
+Second-year B.Tech student pursuing CCE at LNMIIT, specializing in Computer Science and Communication Tech. Proficient in HTML, CSS, JavaScript, ReactJS, Node.js for web development. I Aim to innovate in web solutions using technical and academic expertise.
 
 
 ## 🌐 Socials:
