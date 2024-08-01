@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pre-final year B.Tech student pursuing CCE at LNMIIT, specializing in Computer Science and Communication Tech. Proficient in HTML, CSS, JavaScript, ReactJS, Node.js for web development. I Aim to innovate in web solutions using technical and academic expertise.
+Pre-final year B.Tech student pursuing CCE at LNMIIT, specializing in Computer Science and Communication Tech. Proficient in MERN stack developer. I Aim to innovate in web solutions using technical and academic expertise.I have a keen interest in GenAI.
 
 
 ## 🌐 Socials:
