@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pre-final year B.Tech student at LNMIIT, specializing in Computer Science and Communication Tech. Proficient in MERN stack developer. I Aim to innovate in web solutions using technical and academic expertise.I have a keen interest in GenAI.
+Final year B.Tech student at LNMIIT, specializing in Computer Science and Communication Tech. Proficient in MERN stack developer. I Aim to innovate in web solutions using technical and academic expertise.I have a keen interest in GenAI.
 
 
 ## 🌐 Socials:
