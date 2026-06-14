@@ -1,6 +1,5 @@
 # 💫 About Me:
-Final year B.Tech student at LNMIIT, specializing in Computer Science and Communication Tech. Proficient in MERN stack developer. I Aim to innovate in web solutions using technical and academic expertise.I have a keen interest in GenAI.
-
+Curious Software Engineer with a passion for experimenting with new technologies, building creative solutions, and constantly expanding my skill set. Always ready for the next exciting challenge!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srinjoy1604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srinjoy-roy-161003251) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srinjoy12345@gmail.com) 
